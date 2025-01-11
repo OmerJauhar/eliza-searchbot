@@ -613,7 +613,7 @@ export async function createAgent(
         ].filter(Boolean),
         providers: [],
         actions: [
-            character.name === "trump" ? webSearchPlugin.actions.find(action => action.name === "WEB_SEARCH") : null,        ],
+            character.name === "searchbot" ? webSearchPlugin.actions.find(action => action.name === "WEB_SEARCH") : null,        ],
         services: [],
         managers: [],
         cacheManager: cache,
