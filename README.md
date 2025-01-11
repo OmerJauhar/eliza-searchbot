@@ -1,7 +1,6 @@
-# eliza-searchbot
+# Eliza-Searchbot
 
-This project leverages the Eliza framework in conjunction with the Eliza web search plugin to develop a sophisticated bot capable of searching the internet and delivering the latest news updates.
-
+This project utilizes the Eliza framework along with the Eliza web search plugin to develop a bot capable of searching the internet for a wide range of information, including the latest news updates.
 ## Steps Performed
 
 1. Configured the OpenRouter API.
